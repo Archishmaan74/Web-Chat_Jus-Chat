@@ -1,5 +1,5 @@
 {
-    "name": "Jus_chat",
+    "name": "juschat",
     "version": "1.0.0",
     "description": "A Simple Chat Client",
     "main": "server.js",
