@@ -26,7 +26,7 @@
 ## How to Run the Application:
 To run Jus Chat locally, follow these steps:
 
-1. Clone the repository by running the command `git clone https://github.com/your-username/jus-chat.git` in your terminal and navigate into the project directory.
+1. Clone the repository by running the command `git clone https://github.com/Archishmaan74/Web-Chat_Jus-Chat.git` in your terminal and navigate into the project directory.
 
 2. Install the required dependencies by running `npm install` in the terminal.
 
